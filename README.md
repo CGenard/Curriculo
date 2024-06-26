@@ -1,35 +1,35 @@
-# Curriculum
-My Professional Curriculum
-## Professional Description
+# Currículo
+Meu Currículo Profissional
+## Descrição Profissional
 
-I'm a developer passionate about solving complex problems and creating efficient solutions. I have on average 2 years of experience in Computer Science and System Analysis, where I have been developing my skills in C, Python and Java. My approach is always focused on delivering high quality results, combining logic and a deep technical understanding to achieve the best results.
+Sou um desenvolvedor apaixonado por resolver problemas complexos e criar soluções eficientes. Tenho em média 2 anos de experiência em Ciência da Computação e Análise de Sistemas, onde venho desenvolvendo minhas habilidades em C, Python e Java. Minha abordagem está sempre focada em entregar resultados de alta qualidade, aliando lógica e profundo conhecimento técnico para alcançar os melhores resultados.
 
-###Education
+###Educação
 
--UNIFBV Faculty
+-Faculdade UNIFBV
 
- -Computer Science
+ -Ciência da Computação
 
- -Second period
+ -Segundo período
 
-### Technical abilities
+### Habilidades técnicas
 
-- Languages: [C, Java and Python]
-- Architecture Programs: [SketchUp, Promobi]
-- Languages: [English and Portuguese]
+- Linguagens: [C, Java e Python]
+- Programas de Arquitetura: [SketchUp, Promobi]
+- Idiomas: [Inglês e Português]
 
-### Relevant Projects
+### Projetos Relevantes
 
-- **| Morse Code on Arduino | **
- Morse code translator into the C language, made to run on Arduino.
--It has a flowchart, logical diagram, instructions and “ Tabela Verdade“ 
+- **| Código Morse no Arduino | **
+ Tradutor de código Morse para a linguagem C, feito para rodar em Arduino.
+-Possui fluxograma, diagrama lógico, instruções e “Tabela Verdade“
 
-- **| Animal Game | **
- Code in the Python language, made to run in the famous Brazilian gambling game “ Jogo do Bicho“ .
+- **| Jogo de Animais | **
+ Código na linguagem Python, feito para rodar no famoso jogo de azar brasileiro “Jogo do Bicho“.
 
-### Contact
+### Contato
 
-- **Email:** cgenard11@gmail.com
+- **E-mail:** cgenard11@gmail.com
 - **GitHub:** CGenard
 
-I am always looking to learn new technologies and find new challenges.
+Estou sempre em busca de aprender novas tecnologias e encontrar novos desafios.
