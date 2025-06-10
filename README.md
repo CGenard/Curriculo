@@ -6,7 +6,7 @@ Sou um desenvolvedor apaixonado por resolver problemas complexos e criar soluç�
 
 ###Educação
 
--Faculdade UNIFBV
+-Faculdade CESAR SCHOOL
 
  -Ciência da Computação
 
@@ -26,6 +26,14 @@ Sou um desenvolvedor apaixonado por resolver problemas complexos e criar soluç�
 
 - **| Jogo de Animais | **
  Código na linguagem Python, feito para rodar no famoso jogo de azar brasileiro “Jogo do Bicho“.
+
+
+- **| The last defuse | **
+
+- Jogo figital feito no estilo "Keep talking and nobody explodes" com intuito de ajudar pessoas com neurodivergencias, feito no arduino.
+
+
+
 
 ### Contato
 
