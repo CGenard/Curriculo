@@ -1,8 +1,8 @@
-<h1 align="left">E aí 👋 Tudo certo?</h1>
+<h1 align="left">E aí 👋 Tudo Bem?</h1>
 
 ###
 
-<p align="left">Meu nome é Genard e sou estudante de Ciência da Computação e desenvolvedor em formação, direto do Brasil 🇧🇷</p>
+<p align="left">Meu nome é Caio Genard e sou estudante de Ciência da Computação na Cesar School. 🇧🇷</p>
 
 ###
 
@@ -14,7 +14,7 @@
 📚 Atualmente estudando Ciência da Computação na CESAR School (2º período)<br>
 💻 Apaixonado por programar em C, Python e Java<br>
 🎯 Objetivos: Me tornar um desenvolvedor full-stack e criar tecnologias acessíveis<br>
-🧩 Curiosidade: Adoro resolver problemas de lógica e participar de hackathons!
+🧩 Curiosidade: Adoro resolver problemas de lógica e procurar soluçoes!
 </p>
 
 ###
